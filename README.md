@@ -46,21 +46,19 @@ Desenvolvedores:
 
 ## 3 - Sherlock
 
-![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+<img src="https://github.com/user-attachments/assets/22523095-e834-4f18-a4be-0a790acc71f5" alt="Descrição" width="300"/>
 
-**Quem sou eu:**
 
-🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+**Quem sou eu:🕵️‍♂️ Elementar, meu caro... sou Sherlock Holmes, o maior detetive da história, e estou investigando o roubo de um quadro raríssimo — todas as pistas me trouxeram até você; então, cuidado com cada resposta, pois qualquer deslize pode revelar sua culpa. 🔎🖼️**
 
-🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1Xen29Ww9tM-53p9GNPPzGzb-H4g5ZD_O?usp=sharing)
+
+🔗 [Veja o meu processo de criação](https://www.figma.com/board/mVuRiWHWFHbXtJvDH6gR8C/Sem-t%C3%ADtulo?node-id=0-1&t=S8RmKCVjxiyCSc93-1)
 
 Desenvolvedores:
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
+- [Homero Flávio Dubeux](https://www.linkedin.com/in/homeroflavio/)
+- [Joelson Jóse de Melo](https://www.linkedin.com/in/joelsonjosedev/)
+- [Jose Allamberg](https://github.com/berg2132)
 
 ## 4 - Eco Bot
 
@@ -68,7 +66,7 @@ Desenvolvedores:
 
 **Quem sou eu:**
 
-🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+🔗 [Pode me acessar aqui](https://exemplo.com/atividad)
 
 🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
 
