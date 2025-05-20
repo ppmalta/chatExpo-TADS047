@@ -10,7 +10,7 @@ Cada equipe desenvolveu um bot com personalidade única, um fluxo inteligente de
 
 ## 1 - Oswaldo
 
-![Algoritmos] <img src="img/Oswaldo.png" width="300">
+<img src="img/Oswaldo.png" width="300">
 
 **Quem sou eu:**
 Oswaldo, 58 anos, é conselheiro comunitário e guardião das histórias de Casa Amarela, bairro que conhece como a palma da mão. Com olhar atento e fala acolhedora, ele une tradição e tecnologia para valorizar a memória local, os pontos turísticos e a cultura viva do Recife.
