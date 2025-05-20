@@ -10,21 +10,20 @@ Cada equipe desenvolveu um bot com personalidade única, um fluxo inteligente de
 
 ## 1 - Oswaldo
 
-![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+<img src="img/Oswaldo.png" width="300">
 
 **Quem sou eu:**
+Oswaldo, 58 anos, é conselheiro comunitário e guardião das histórias de Casa Amarela, bairro que conhece como a palma da mão. Com olhar atento e fala acolhedora, ele une tradição e tecnologia para valorizar a memória local, os pontos turísticos e a cultura viva do Recife.
 
-🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1DZ5uX0TQSNKX8TqHw9kZcXuD_kkWJW2g?usp=sharing)
 
-🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+🔗 [Veja o meu processo de criação](https://miro.com/welcomeonboard/UW5XMEV2dlZENXpnL1BTTTJBNGFGVnloUnBZUnY1dHZTQVAwMXREMVBSNURIZnZkdDNpMXFFa0RZdnZybkw5RW5HY2lmN0FjaU9JVHRkMzllQTh4dnBXb09PajdOTWc5ak1ocHV6V2JEYVBGSU0wd2tXanNZeVpDY29BUDF6c0x0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=74498728458)
 
 Desenvolvedores:
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
+- [Adely Braz](https://github.com/Adelybraz)
+- [Gabriel Lima](https://github.com/Santliam)
+- [Lucas Mendes](https://github.com/Luc4s22)
+- [Lucas Ximenes](https://www.linkedin.com/in/lucas-ximenes/)
 
 ## 2 - Neguin Tech
 
