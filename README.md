@@ -149,21 +149,16 @@ Desenvolvedores:
 - [nome](link)
 - [nome](link)
 
-## 9 - TechBot
+## 9 - TechBoy
 
-![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+![Algoritmos](https://github.com/ppmalta/TechBoy/raw/main/TechBoy.png?raw=true)
 
-**Quem sou eu:**
+**Quem sou eu: Sou seu amigão da vizinhança: Spider...Ops! Só de zuiera. Sou TechBoy o teu parceiro vibe pra desbravar programação! Explica código de boa, com exemplos práticos e um toque de humor Geek. Perfeito pra quem tá começando na tech, te guia com empatia e visão foda pro futuro. Bora codar e inovar juntos? 🚀 #TechBoyVibes **
 
-🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/13s7Yl_F1jbKpQU4mk4iO5Ss--c-z70VT?usp=sharing)
 
-🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+🔗 [Veja o meu processo de criação](https://www.figma.com/board/u17qU3kdVFHs1CLjdEsWGr/ChatBot-Tech?node-id=0-1&t=iUiqyxkIlpfCEbcj-1)
 
 Desenvolvedores:
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
+- [nome](https://github.com/ppmalta)
 
