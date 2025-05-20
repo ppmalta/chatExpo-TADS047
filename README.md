@@ -79,21 +79,22 @@ Desenvolvedores:
 
 ## 5 - EcoMind
 
-![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+![image](https://github.com/user-attachments/assets/18a4ed5c-b10e-4359-91ce-50bff9a37a9f)
 
-**Quem sou eu:**
 
-🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+**Quem sou eu:** Paulo, professor de Biologia, 30 anos, dá aulas para crianças do ensino fundamental e adolescentes do ensino médio.
+    É engajado em causas sustentáveis e gosta levar seus aprendizados sobre o tema para suas aulas.
 
-🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/11GdpZaXpAsygI7K9fkA_YeFw6YYZ2SWJ?usp=sharing)
+
+🔗 [Veja o meu processo de criação](https://www.figma.com/board/JJ6WVjeIggdDV6UanenIth/FluxogramaChatbot?node-id=18-312&t=K3hPy9PLJOi66RUf-1)
 
 Desenvolvedores:
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
+- [Anderson Bem](https://github.com/AndersonBem/AndersonBem)
+- [Danielle Barbosa](https://www.linkedin.com/in/danielle-barbosa-ba1551196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [Luís Bezerra](https://github.com/luissbezerra/luissbezerra)
+- [Wendell Barboza](https://github.com/Wendell8708)
+
 
 ## 6 - Aurora
 
