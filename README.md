@@ -160,5 +160,5 @@ Desenvolvedores:
 🔗 [Veja o meu processo de criação](https://www.figma.com/board/u17qU3kdVFHs1CLjdEsWGr/ChatBot-Tech?node-id=0-1&t=iUiqyxkIlpfCEbcj-1)
 
 Desenvolvedores:
-- [nome](https://github.com/ppmalta)
+- [Pedro Malta](https://github.com/ppmalta)
 
